@@ -2,7 +2,7 @@
 
 A macOS desktop widget that delivers personalized, AI-summarized news and educational blurbs as a floating sticky note on your desktop.
 
-![Daily Brief Sticky](./screenshots/widget-preview.png)
+
 
 ## Features
 
